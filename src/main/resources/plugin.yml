@@ -1,0 +1,6 @@
+name: ExploitChecker
+version: @version@
+main: com.github.highright1234.exploitchecker.ExploitChecker
+api-version: 1.17
+depend:
+  - ProtocolLib
